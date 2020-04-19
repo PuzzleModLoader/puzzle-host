@@ -1,6 +1,11 @@
 {
-    "02alpha": {
-        "mc_version": ["1.15", "1.15.1", "1.15.2", "20w16a"],
-        "install_file": "https://raw.githubusercontent.com/PuzzleModLoader/puzzle-host/master/install_02alpha.json"
-    }
+    "latest":"02-alpha",
+    "recomended":"02-alpha",
+    "versions":[
+        {
+            "puzzle_version": "02-alpha",
+            "mc_version": ["1.15", "1.15.1", "1.15.2", "20w16a"],
+            "install_file": "https://exemple.com/install_02alpha.json"
+        }
+    ]
 }
